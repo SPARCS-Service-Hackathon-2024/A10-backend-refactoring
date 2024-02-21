@@ -38,3 +38,4 @@
 | 0x09. branch 파서 작업하기                    |     |
 | 0x10. chatgpt api와 추가적인 api source 이용하기 |     |
 | 0x11. Querydsl 사용해보기                     |     |
+| 0x12. 커밋 주기, 컨벤션 잘 지키기                 |     |
